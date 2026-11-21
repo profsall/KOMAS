@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Demung Tutor",
+    "slug": "demung-tutor",
+    "version": "0.1.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "softwareKeyboardLayoutMode": "resize"
+    }
+  }
+}
